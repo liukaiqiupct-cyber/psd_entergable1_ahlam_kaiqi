@@ -220,3 +220,4 @@ class Almacen:
         for repuesto in self._catalogo:
             info += f"  - {repuesto}\n"
         return info
+primer archivo del entregable
